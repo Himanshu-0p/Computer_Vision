@@ -90,7 +90,7 @@ python one.py
 ### Detection Results
 The image below shows the detected constellation after processing the input image.
 
-![Constellation Detection Result]("F:\IPCV_PROJECT\Project_Code\image.png")
+![Constellation Detection Result]("E:\Github Paths\Computer_Vision\IPCV_PROJECT\Project_Code\image.png")
 
 ### How It Works:
 - The system processes the image using the pre-trained model.
